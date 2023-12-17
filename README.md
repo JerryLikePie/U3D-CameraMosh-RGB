@@ -1,5 +1,5 @@
 # Data Moshing and RGB Spliting Effects in Unity3D
-### note
+### Note
 This was my final project for CS334
 My works are in Assets/Scripts and Assets/Shader
 
