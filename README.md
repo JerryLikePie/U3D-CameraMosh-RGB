@@ -1,14 +1,15 @@
 # Data Moshing and RGB Spliting Effects in Unity3D
-#### note
+### note
 This was my final project for CS334
+My works are in Assets/Scripts and Assets/Shader
 
-#### Topic
+### Topic
 Glitch arts
 
-#### Goal
+### Goal
 Apply two glitch effects, RGB split and datamoshing to the camera by directly modifying the shader and render in GPU.
 
-#### Demo Manual
+### Demo Manual
  - WASD to move around, move mouse to view around. No need to press mouse to move.
  - Right click (and press) to enter moshing mode. Moshing wears off gradually.
  - Middle button (click) or R to deactivate moshing instantly.
